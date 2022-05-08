@@ -1,4 +1,4 @@
-local mod = RegisterMod("mod", 1)
+local mod = RegisterMod("ighm", 1)
 
 local Handler = { predicates = {} }
 Handler.predicates[ModCallbacks.MC_POST_GAME_STARTED] = { [2] = false }
