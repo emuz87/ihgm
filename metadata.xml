@@ -20,7 +20,7 @@
         [i]Note: All features can be configured, enabled, and disabled in the source code, more information on the [url=https://github.com/emuz87/ihgm]GitHub repo[/url][/i]
     </description>
     <version>1.8</version>
-    <visibility>Friends Only</visibility>
+    <visibility>Public</visibility>
     <tag id="Lua"/>
     <tag id="Tweaks"/>
 </metadata>
