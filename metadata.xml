@@ -15,9 +15,11 @@
         -  Characters receive N amount of coins when entering the ultra greed floor.
         -  Characters spawn with Chaos when in greed or greedier mode.
 
-        [i]Note: All features can be configured, enabled, and disabled in the source code, more information on the [url=https://github.com/emuz87/ihgm]GitHub repo.[/url][/i]
+        [b]Please let me know of any bugs or ideas in the comments[/b]
+
+        [i]Note: All features can be configured, enabled, and disabled in the source code, more information on the [url=https://github.com/emuz87/ihgm]GitHub repo[/url][/i]
     </description>
-    <version>1.1</version>
+    <version>1.8</version>
     <visibility>Friends Only</visibility>
     <tag id="Lua"/>
     <tag id="Tweaks"/>
