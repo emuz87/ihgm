@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>IHGM - I Hate Greed Mode</name>
+    <directory>ihgm</directory>
+    <id>2805548039</id>
+    <description>
+        [h1] Features [/h1]
+        [b] Enabled by default [/b]
+
+        -  Characters spawn with the D20 when in greed or greedier mode.
+        -  Characters spawn with Mom's Key when in greed or greedier mode.
+
+        [b] Disabled by default [/b]
+
+        -  Characters receive N amount of coins when entering the ultra greed floor.
+        -  Characters spawn with Chaos when in greed or greedier mode.
+
+        [i]Note: All features can be configured, enabled, and disabled in the source code, more information on the [url=https://github.com/emuz87/ihgm]GitHub repo.[/url][/i]
+    </description>
+    <version>1.1</version>
+    <visibility>Friends Only</visibility>
+    <tag id="Lua"/>
+    <tag id="Tweaks"/>
+</metadata>
